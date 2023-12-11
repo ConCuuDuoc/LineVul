@@ -1,0 +1,4 @@
+data/
+linevul/__pycache__/
+linevul/saved_models/
+linevul/results/
